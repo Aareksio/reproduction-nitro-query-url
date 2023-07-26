@@ -1,0 +1,11 @@
+{
+  "name": "reproduction-nitro-query-url",
+  "private": true,
+  "scripts": {
+    "dev": "nitro dev",
+    "build": "nitro build"
+  },
+  "devDependencies": {
+    "nitropack": "^2.5.2"
+  }
+}
