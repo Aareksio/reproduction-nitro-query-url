@@ -4,6 +4,8 @@
 2. `pnpm dev`
 3. Visit `/`, you'll be redirected to `?url=https://example.com`
 
+Test it on [StackBlitz](https://stackblitz.com/github/Aareksio/reproduction-nitro-query-url)
+
 ### Error
 
 `event.path = /?url=https:/example.com`
